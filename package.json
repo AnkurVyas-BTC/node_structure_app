@@ -11,7 +11,7 @@
     "test": "mocha --reporter progress tools/testSetup.js \"src/**/*.test.js\"",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "Ankur Vyas",
+  "author": "Ankur Vyas & Santosh Sharma",
   "license": "BoTree",
   "dependencies": {
     "babel-polyfill": "6.8.0",
